@@ -1,0 +1,10 @@
+{"antecedent": ["giai_tich_fail", "giai_tich_so_fail"], "consequent": ["xac_suat_thong_ke_fail"], "confidence": 0.82, "lift": 1.45, "rule_strength": 1.19, "target": "xac_suat_thong_ke"}
+{"antecedent": ["lap_trinh_huong_doi_tuong_fail"], "consequent": ["do_an_1_fail"], "confidence": 0.78, "lift": 1.30, "rule_strength": 1.01, "target": "do_an_1"}
+{"antecedent": ["lap_trinh_ung_dung_windows_form_fail", "lap_trinh_huong_doi_tuong_fail"], "consequent": ["do_an_1_fail"], "confidence": 0.85, "lift": 1.60, "rule_strength": 1.36, "target": "do_an_1"}
+{"antecedent": ["co_so_du_lieu_fail", "lap_trinh_huong_doi_tuong_fail"], "consequent": ["cong_nghe_phan_mem_fail"], "confidence": 0.74, "lift": 1.25, "rule_strength": 0.93, "target": "cong_nghe_phan_mem"}
+{"antecedent": ["giai_tich_fail"], "consequent": ["xac_suat_thong_ke_fail"], "confidence": 0.68, "lift": 1.20, "rule_strength": 0.82, "target": "xac_suat_thong_ke"}
+{"antecedent": ["co_so_du_lieu_fail"], "consequent": ["thiet_ke_web_co_ban_fail"], "confidence": 0.70, "lift": 1.18, "rule_strength": 0.83, "target": "thiet_ke_web_co_ban"}
+{"antecedent": ["lap_trinh_ung_dung_windows_form_fail"], "consequent": ["thiet_ke_web_co_ban_fail"], "confidence": 0.73, "lift": 1.22, "rule_strength": 0.89, "target": "thiet_ke_web_co_ban"}
+{"antecedent": ["tieng_anh_1_fail"], "consequent": ["do_an_1_fail"], "confidence": 0.62, "lift": 1.10, "rule_strength": 0.68, "target": "do_an_1"}
+{"antecedent": ["giai_tich_fail", "dai_so_tuyen_tinh_fail"], "consequent": ["xac_suat_thong_ke_fail"], "confidence": 0.80, "lift": 1.40, "rule_strength": 1.12, "target": "xac_suat_thong_ke"}
+{"antecedent": ["lap_trinh_huong_doi_tuong_fail", "co_so_du_lieu_fail"], "consequent": ["kiem_thu_phan_mem_fail"], "confidence": 0.76, "lift": 1.32, "rule_strength": 1.00, "target": "kiem_thu_phan_mem"}
