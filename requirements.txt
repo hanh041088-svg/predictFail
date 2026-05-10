@@ -2,7 +2,10 @@ streamlit
 pandas
 numpy
 scikit-learn
+imbalanced-learn
 joblib
 matplotlib
 shap
 openpyxl
+xgboost
+lightgbm
